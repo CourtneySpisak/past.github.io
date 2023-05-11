@@ -1,0 +1,38 @@
+.postcard1{
+    width: 700px;
+    height: 600px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+.postcard2 {
+    width: 700px;
+    height: 600px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;  
+
+}
+.postcard3 {
+    width: 700px;
+    height: 600px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;  
+}
+.caption-stone {
+    margin-left:auto;
+    margin-right:auto; 
+}
+.postcard1-description {
+   text-align:center;
+/* Dont have columns */
+}
+.postcard2_description {
+   text-align:center;
+/* Dont have columns */
+}
+.postcard3_description {
+   text-align:center;
+/* Dont have columns */
+}

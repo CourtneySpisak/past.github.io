@@ -1,0 +1,12 @@
+.squidward {
+    width: auto;
+    height: 600px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    
+}
+.squid-art {
+   text-align:center;
+/* Dont have columns */
+}

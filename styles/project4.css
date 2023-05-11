@@ -1,0 +1,12 @@
+.collage-pic {
+    width: 700px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
+
+.collage-art {
+   text-align:center;
+/* Dont have columns */
+}

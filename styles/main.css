@@ -26,6 +26,8 @@
 
 .project_page_description {
     margin-top: 1%;
+    margin-left: auto;
+    margin_right: auto;
 }
 
 h4 {
@@ -33,9 +35,59 @@ h4 {
 	padding-bottom: 0px;
 }
 .glitch-1 {
-    width: 500px;
-    height: 300px;
+    width: 700px;
+    height: 500px;
     margin-left:auto;
     margin-right:auto;
     display:block;
+}
+.backglitch {
+    width: 700px;
+    height: 500px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;  
+}
+.caption-stone {
+    margin-left:auto;
+    margin-right:auto; 
+}
+.description {
+    margin-left: 200 px;
+}
+.stone-art {
+   text-align:center;
+
+}
+.sharky-shark {
+    width: 800px;
+    height: 600px;
+    margin-left:auto;
+    margin-right:auto;
+    display:flex;
+    align-items: center;
+
+}
+.shark-comment {
+   text-align:center;
+
+}
+.shark-comment {
+   text-align:center;
+
+}
+.song {
+   display:flex;
+   justify-content:center;
+   align-items:center
+}
+
+.fire-baby {
+    width: auto;
+    height: auto;
+    margin-left:auto;
+    margin-right:auto;
+    display:flex;
+    align-items: center;
+
 }

@@ -22,7 +22,7 @@ body {
 /* ROOT FONT STYLES */
 
 * {
-  font-family: 'Lato', Helvetica, sans-serif;
+  font-family:  Larken, sans-seri;
   color: #333447;
   line-height: 1.5;
 }
@@ -219,7 +219,8 @@ p {
   }
 
   .col-8 {
-    width: 62.66%;
+    width: 62%;
+    margin-left: 400 px;
   }
 
   .col-9 {
